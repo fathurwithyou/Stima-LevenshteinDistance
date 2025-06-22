@@ -1,1 +1,1 @@
-# Stima-LevenshteinDistance
+# Stima-Sentiment
